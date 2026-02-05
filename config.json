@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {"project_id": 1, "ip": "192.168.1.10", "serial": "ABC123", "last_sync": null},
+    {"project_id": 2, "ip": "192.168.1.11", "serial": "XYZ456", "last_sync": null}
+  ],
+  "zoho": {
+    "owner_name": "Finlanza LTD",
+    "app_name": "AttendanceApp",
+    "api_token": "#389GZ"
+  },
+  "poll_interval_minutes": 5
+}

@@ -1,0 +1,5 @@
+2026-02-05 11:06:05,445 - INFO - Middleware started...
+2026-02-05 11:06:10,494 - ERROR - Failed to fetch logs from 192.168.1.10: can't reach device (ping 192.168.1.10)
+2026-02-05 11:06:10,496 - INFO - No new logs for device 192.168.1.10
+2026-02-05 11:06:15,513 - ERROR - Failed to fetch logs from 192.168.1.11: can't reach device (ping 192.168.1.11)
+2026-02-05 11:06:15,513 - INFO - No new logs for device 192.168.1.11
